@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "contentVersion": 1,
+    "festivalDays": [
+      {
+        "key": "Sat",
+        "date": "2025-11-08"
+      },
+      {
+        "key": "Sun",
+        "date": "2025-11-09"
+      }
+    ]
+  },
+  "artists": [
+    {
+      "id": "artist_mohini",
+      "slug": "mohini-dey",
+      "name": "Mohini Dey",
+      "bio150": "Brilliant electric bassist from India.",
+      "mainImageURL": "https://example.com/mohini/main.jpg",
+      "thumbImageURL": "https://example.com/mohini/thumb.jpg",
+      "videoURL": "https://youtu.be/xxxxx",
+      "socials": [],
+      "isPublished": true,
+      "updatedAt": "2025-11-02T13:00:00Z"
+    },
+    {
+      "id": "artist_dave",
+      "slug": "dave-holland",
+      "name": "Dave Holland",
+      "bio150": "Legendary jazz bassist.",
+      "mainImageURL": "https://example.com/dave/main.jpg",
+      "thumbImageURL": "https://example.com/dave/thumb.jpg",
+      "videoURL": "https://youtu.be/yyyyy",
+      "socials": [],
+      "isPublished": true,
+      "updatedAt": "2025-11-02T13:00:00Z"
+    }
+  ],
+  "halls": [
+    {
+      "id": "hall_grote",
+      "name": "Grote Zaal",
+      "displayOrder": 1,
+      "color": "#F1623E",
+      "isPublished": true
+    }
+  ],
+  "performances": [
+    {
+      "id": "perf_mohini_sat",
+      "artistIds": [
+        "artist_mohini"
+      ],
+      "hallId": "hall_grote",
+      "dayDate": "Sat Nov 08 2025 00:00:00 GMT+0100 (Central European Standard Time)",
+      "startTime": "2025-11-08T12:00:00+01:00",
+      "endTime": "2025-11-08T12:30:00+01:00",
+      "tags": [
+        "fusion"
+      ],
+      "isPublished": true
+    },
+    {
+      "id": "perf_dave_sun",
+      "artistIds": [
+        "artist_dave"
+      ],
+      "hallId": "hall_grote",
+      "dayDate": "Sun Nov 09 2025 00:00:00 GMT+0100 (Central European Standard Time)",
+      "startTime": "2025-11-09T12:00:00+01:00",
+      "endTime": "2025-11-09T12:30:00+01:00",
+      "tags": [
+        "jazz"
+      ],
+      "isPublished": true
+    }
+  ]
+}
