@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "contentVersion": 10,
+    "festivalDays": [
+      {
+        "key": "Sat",
+        "date": "2025-11-08"
+      },
+      {
+        "key": "Sun",
+        "date": "2025-11-09"
+      }
+    ]
+  },
+  "artists": [
+    {
+      "id": "artist_mohini",
+      "slug": "",
+      "name": "Mohini Dey",
+      "bio150": "Brilliant electric bassist from India.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=yCCbvm2Njhg",
+      "socials": [],
+      "isPublished": true,
+      "updatedAt": ""
+    },
+    {
+      "id": "artist_dave",
+      "slug": "",
+      "name": "Dave Holland",
+      "bio150": "Legendary jazz bassist.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=voSYu31u3Uo&t=698s",
+      "socials": [],
+      "isPublished": true,
+      "updatedAt": ""
+    }
+  ],
+  "halls": [
+    {
+      "id": "hall_grote",
+      "name": "Grote Zaal",
+      "displayOrder": 1,
+      "color": "",
+      "isPublished": true
+    },
+    {
+      "id": "hall_klein",
+      "name": "Sena Stage",
+      "displayOrder": 2,
+      "color": "",
+      "isPublished": true
+    },
+    {
+      "id": "hall_1a",
+      "name": "1A First Alternative Stage",
+      "displayOrder": 3,
+      "color": "",
+      "isPublished": true
+    },
+    {
+      "id": "Hall_Studio",
+      "name": "Studio Balkon",
+      "displayOrder": 4,
+      "color": "",
+      "isPublished": true
+    },
+    {
+      "id": "hall_doro",
+      "name": "Studio Doro",
+      "displayOrder": 5,
+      "color": "",
+      "isPublished": true
+    },
+    {
+      "id": "hall_foyers",
+      "name": "Foyers",
+      "displayOrder": 6,
+      "color": "",
+      "isPublished": true
+    }
+  ],
+  "performances": [
+    {
+      "id": "perf_mohini_sat",
+      "artistIds": [],
+      "hallId": "hall_grote",
+      "dayDate": "Sat Nov 08 2025 00:00:00 GMT+0100 (Central European Standard Time)",
+      "startTime": "",
+      "endTime": "Sat Dec 30 1899 23:30:00 GMT+0000 (Central European Standard Time)",
+      "tags": [
+        "fusion"
+      ],
+      "isPublished": true
+    },
+    {
+      "id": "perf_dave_sun",
+      "artistIds": [],
+      "hallId": "hall_grote",
+      "dayDate": "Sun Nov 09 2025 00:00:00 GMT+0100 (Central European Standard Time)",
+      "startTime": "",
+      "endTime": "Sat Dec 30 1899 17:30:00 GMT+0000 (Central European Standard Time)",
+      "tags": [
+        "jazz"
+      ],
+      "isPublished": true
+    }
+  ]
+}
