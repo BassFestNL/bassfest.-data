@@ -1,6 +1,6 @@
 {
   "meta": {
-    "contentVersion": 1,
+    "contentVersion": 6,
     "festivalDays": [
       {
         "key": "Sat",
@@ -54,7 +54,7 @@
         "artist_mohini"
       ],
       "hallId": "hall_grote",
-      "dayDate": "Sat Nov 08 2025 00:00:00 GMT+0100 (Central European Standard Time)",
+      "dayDate": "2025-08-11",
       "startTime": "2025-11-08T12:00:00+01:00",
       "endTime": "2025-11-08T12:30:00+01:00",
       "tags": [
@@ -68,7 +68,7 @@
         "artist_dave"
       ],
       "hallId": "hall_grote",
-      "dayDate": "Sun Nov 09 2025 00:00:00 GMT+0100 (Central European Standard Time)",
+      "dayDate": "2025-09-11",
       "startTime": "2025-11-09T12:00:00+01:00",
       "endTime": "2025-11-09T12:30:00+01:00",
       "tags": [
