@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "revision": 5,
+    "generatedAt": "2025-11-03T12:12:57+01:00"
+  },
+  "artists": [
+    {
+      "id": "artist_mohini",
+      "name": "Mohini Dey",
+      "slug": "mohini-dey",
+      "bio150": "Brilliant electric bassist from India.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=yCCbvm2Njhg"
+    },
+    {
+      "id": "artist_dave",
+      "name": "Dave Holland",
+      "slug": "dave-holland",
+      "bio150": "Legendary jazz bassist.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=voSYu31u3Uo&t=698s"
+    },
+    {
+      "id": "artist_victor",
+      "name": "Victor Wooten & The Wooten Brothers",
+      "slug": "victor-wooten-the-wooten-brothers",
+      "bio150": "BassFest proudly presents the legendary American bassist Victor Wooten. A five-time Grammy Award winner, Wooten was the first person to be named Bassist of the Year three times by Bass Player magazine and was ranked by Rolling Stone in 2011 as one of the ten greatest bassists of all time. Known for his astonishing technique and innovative approach to the bass guitar, he rose to fame as a founding member of the groundbreaking ensemble Béla Fleck and the Flecktones. Wooten has collaborated with icons such as Chick Corea, Bootsy Collins, Stanley Clarke, Marcus Miller, and Whitney Houston. At BassFest, he will perform with his family band The Wooten Brothers – a show packed with virtuosity, funk, and musical magic.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "videoURL": "https://youtu.be/-VTTReStlsQ"
+    }
+  ],
+  "halls": [
+    {
+      "id": "hall_grote",
+      "name": "Grote Zaal",
+      "displayOrder": 1
+    },
+    {
+      "id": "hall_klein",
+      "name": "Sena Stage",
+      "displayOrder": 2
+    },
+    {
+      "id": "hall_1a",
+      "name": "1A First Alternative Stage",
+      "displayOrder": 3
+    },
+    {
+      "id": "Hall_Studio",
+      "name": "Studio Balkon",
+      "displayOrder": 4
+    },
+    {
+      "id": "hall_doro",
+      "name": "Studio Doro",
+      "displayOrder": 5
+    },
+    {
+      "id": "hall_foyers",
+      "name": "Foyers",
+      "displayOrder": 6
+    }
+  ],
+  "performances": [
+    {
+      "id": "perf_mohini_sat",
+      "artistIds": [
+        "artist_mohini"
+      ],
+      "hallId": "hall_grote",
+      "startTime": "2025-11-08T22:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00",
+      "tags": [
+        "fusion"
+      ],
+      "dayDate": "2025-11-08"
+    },
+    {
+      "id": "perf_dave_sun",
+      "artistIds": [
+        "artist_dave"
+      ],
+      "hallId": "hall_grote",
+      "startTime": "2025-11-09T16:00:00+01:00",
+      "endTime": "2025-11-09T17:30:00+01:00",
+      "tags": [
+        "jazz"
+      ],
+      "dayDate": "2025-11-09"
+    },
+    {
+      "id": "perf_victor_sun",
+      "artistIds": [
+        "artist_victor"
+      ],
+      "hallId": "hall_grote",
+      "startTime": "2025-11-09T19:00:00+01:00",
+      "endTime": "2025-11-09T20:30:00+01:00",
+      "dayDate": "2025-11-09"
+    },
+    {
+      "id": "talkingbass_victor_sun",
+      "artistIds": [
+        "artist_victor"
+      ],
+      "hallId": "hall_doro",
+      "startTime": "2025-11-09T15:30:00+01:00",
+      "endTime": "2025-11-09T16:30:00+01:00",
+      "dayDate": "2025-11-09"
+    }
+  ]
+}
