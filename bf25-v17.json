@@ -1,0 +1,746 @@
+{
+  "meta": {
+    "revision": 17,
+    "generatedAt": "2025-11-03T22:20:51+01:00"
+  },
+  "acts": [
+    {
+      "id": "mohini_dey",
+      "title": "Mohini Dey",
+      "bio": "Bassist Mohini Dey and her band are coming to BassFest! The virtuoso Dey has been making waves both on- and offline from a young age with her extraordinary technique and musicality. She was quickly recognized by top musicians around the world. Dey has collaborated with legends like Steve Vai and Zakir Hussain and is praised for her fluid, genre-blending style. In 2023, she released her long-awaited debut album, fusing jazz fusion, Indian influences, and funk. On stage, she’s known for her infectious energy and powerful connection with the audience.",
+      "lineup": "Mohini Dey (bass guitar); rest of lineup TBA",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=yCCbvm2Njhg",
+      "tags": []
+    },
+    {
+      "id": "dave_holland",
+      "title": "Dave Holland Trio with Jaleel Shaw and Nasheet Waits",
+      "bio": "For the second time, we welcome living legend Dave Holland to BassFest. Last time, he took the stage with John Scofield—this year, he returns with his remarkable trio. Alongside him: saxophonist Jaleel Shaw and drummer Nasheet Waits, a dream team of groove and improvisation. Holland is one of the most influential bassists of his generation, known for his work with Miles Davis, Herbie Hancock, and countless solo projects. His playing is layered, rhythmically powerful, and melodically rich. Together, the trio delivers an explosive mix of virtuosity, freedom, and emotion.",
+      "lineup": "Dave Holland (double bass); Jaleel Shaw (saxophone); Nasheet Waits (drums)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=voSYu31u3Uo&t=698s",
+      "tags": []
+    },
+    {
+      "id": "victor_wooten",
+      "title": "Victor Wooten & The Wooten Brothers",
+      "bio": "BassFest proudly presents the legendary American bassist Victor Wooten. A five-time Grammy Award winner, Wooten was the first person to be named Bassist of the Year three times by Bass Player magazine and was ranked by Rolling Stone in 2011 as one of the ten greatest bassists of all time. Known for his astonishing technique and innovative approach to the bass guitar, he rose to fame as a founding member of the groundbreaking ensemble Béla Fleck and the Flecktones. Wooten has collaborated with icons such as Chick Corea, Bootsy Collins, Stanley Clarke, Marcus Miller, and Whitney Houston. At BassFest, he will perform with his family band The Wooten Brothers – a show packed with virtuosity, funk, and musical magic.",
+      "lineup": "Regi Wooten (electric guitar); Roy Wooten (drums) Joseph wooten (vocals & keys); Victor Wooten (bass guitar)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "videoURL": "https://youtu.be/-VTTReStlsQ",
+      "tags": []
+    },
+    {
+      "id": "xavier_foley",
+      "title": "Xavier Foley",
+      "bio": "Making his Netherlands debut at BassFest is American double bassist Xavier Foley, renowned for his virtuosic technique and for redefining the role of the double bass as a solo instrument – both as a performer and composer. He has received numerous prestigious awards, including First Prize at the Sphinx Competition (2014), the Young Concert Artists International Auditions (2016), and the Avery Fisher Career Grant (2018). Foley performs internationally as a soloist with leading orchestras and is celebrated for his original compositions that blend classical music with elements of jazz, folk, and spirituals. His charismatic stage presence and energetic performances have made him an audience favorite wherever he plays. Foley studied with legendary bassist Edgar Meyer.",
+      "lineup": "Xavier Foley (Double Bass)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/797dd00b_Xavier-matt-dine-hires1-copy-1024x799.jpeg",
+      "thumbImageURL": null,
+      "videoURL": "Xavier Foley - Amazing Grace - YouTube",
+      "tags": [
+        "double bass",
+        "classical",
+        "solo"
+      ]
+    },
+    {
+      "id": "manou_gallo",
+      "title": "Manou Gallo Orchestra",
+      "bio": "Manou Gallo is a powerhouse of rhythm and groove. With her Manou Gallo Orchestra, the Ivorian bassist, singer, and composer brings explosive energy to the stage, blending funk, soul, and African traditions into an irresistible sound. A former member of Zap Mama and collaborator with Marcus Miller, Manu Dibango and Bootsy Collins, she has carved out a unique place in the international bass scene. Expect fiery bass lines, powerful vocals, and a band that radiates joy and intensity – a true celebration of music without borders.",
+      "lineup": "Manou Gallo (bass guitar); rest of lineup tba",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/09/3smaller-1500x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/KcPWofD-jP8",
+      "tags": [
+        "global",
+        "bass guitar",
+        "soul",
+        "funk"
+      ]
+    },
+    {
+      "id": "mehdi_nassouli",
+      "title": "Mehdi Nassouli & Marmoucha Orchestra",
+      "bio": "Moroccan musician Mehdi Nassouli is one of the leading voices in contemporary Gnawa music. A master of the guembri – the three-stringed bass lute at the heart of the Gnawa tradition – he blends African, Arab and Gnawa roots with elements of jazz, reggae and rock. Having collaborated with artists such as Fatoumata Diawara, Herbie Hancock and Alpha Blondy, Nassouli now joins forces with Amsterdam-based crossover ensemble Marmoucha Orchestra for BassFest. This versatile collective brings together musicians from diverse cultural and musical backgrounds and is known for its vibrant fusion of North African traditions, contemporary sounds and improvisation. Their collaboration promises a boundary-crossing concert full of rhythm, soul and deep musical dialogue.",
+      "lineup": "Mehdi Nassouli (Guembri); Marmoucha Orchestra",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/Coverfoto-Marmoucha-Jazzahead-1024x1024@2x.jpg",
+      "thumbImageURL": null,
+      "videoURL": "Sonic Bridges - Marmoucha Orchestra feat. Mehdi Nassouli | Jazzahead! 2024 | Part 1 - YouTube",
+      "tags": [
+        "gnawa",
+        "global",
+        "guembri"
+      ]
+    },
+    {
+      "id": "joelle_leandre",
+      "title": "Joëlle Léandre",
+      "bio": "French double bass legend Joëlle Léandre is one of the most influential figures in contemporary and improvised music. A fearless performer and composer, she has worked with pioneers such as John Cage, Pierre Boulez, Merce Cunningham and Anthony Braxton, and her career spans hundreds of recordings and collaborations across genres. Léandre’s playing is unmistakable — raw, poetic, and full of risk — combining uncompromising virtuosity with theatricality and a deep sense of freedom. Beyond her instrument, she is a powerful voice for equality and individuality in music, inspiring generations of musicians worldwide.",
+      "lineup": "Joëlle Léandre (Double Bass)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/09/JoelleLEANDRE_COULEUR-recadre-655x630.webp",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/rRU6wR1SbXg",
+      "tags": [
+        "avant-garde",
+        "contemporary",
+        "solo",
+        "double bass"
+      ]
+    },
+    {
+      "id": "sasha_witteveen",
+      "title": "Sasha Witteveen",
+      "bio": "At the very first edition of BassFest, Sasha Witteveen took a masterclass with bass legend Gary Karr. Now, she is one of the most promising young double bassists in the Netherlands, and we’re proud to welcome her back to our stage for the second time. She combines classical virtuosity with a curious and forward-thinking approach to her instrument. From a young age, Sasha won numerous awards, including the Princess Christina Competition, the international Viennese Bass Days competition, and was named a Dutch Classical Talent. She regularly performs as a soloist and chamber musician, and has appeared with ensembles such as the Netherlands Chamber Orchestra and the Grachtenfestival. Her repertoire spans from Baroque to contemporary, with a passion for lesser-known works and unexpected musical combinations. Last year, she released her well-received debut album Into the Light.",
+      "lineup": "Sasha Witteveen (Double Bass); Jorian van Nee (Piano); Jose David Ospina Gaviria (Double Bass)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/eduardus_lee_20240927_Sasha_Witteveen_026-824x1030-1-824x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/zbc4Uh40XOg",
+      "tags": [
+        "classical",
+        "double bass",
+        "chamber music"
+      ]
+    },
+    {
+      "id": "james_oesi",
+      "title": "James Oesi Trio",
+      "bio": "The James Oesi Trio brings together three exceptional musicians – double bassist James Oesi, theorbo player Mike Fentross, and electric bassist Mark Haanstra – in a boundary-pushing ensemble that completely redefines the role of the bass. Their programme moves effortlessly from the 18th century to South African jazz, featuring works by Bach, Handel and Vivaldi alongside music by Abdullah Ibrahim (with whom Oesi has collaborated), all in original arrangements by Oesi. With the double bass as a solo voice, the harmonic depth of the theorbo, and the rhythmic foundation of the electric bass, the trio creates a unique sound world that is both intimate and adventurous.",
+      "lineup": "James Oesi (Double Bass); Mike Fentross (Theorbo); Mark Haanstra (Bass Guitar)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/MikeMarkJames-scaled-1-1500x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "James Oesi Trio – Bach Largo \"Arioso\" (Concerto No.5 BWV 1056) – Trio with Theorbo & Bass Guitar - YouTube",
+      "tags": [
+        "classical",
+        "double bass",
+        "chamber music"
+      ]
+    },
+    {
+      "id": "cva_classical",
+      "title": "CvA Classical Students",
+      "bio": null,
+      "lineup": "Gerardo Daniel, Noah Sapp, Dimitrios Simopoulos, Mario Fernandez, Pablo Reina, Rui Camposinhos, Nadav Vaknin, Mika Ben Aharon, Ines Silva, Theo Salaris, Manon Richard, Ines Damasio, Rita Martinez, Eduard Ramos, (Double Basses)",
+      "mainImageURL": null,
+      "thumbImageURL": null,
+      "videoURL": null,
+      "tags": [
+        "classical",
+        "conservatory",
+        "double bass"
+      ]
+    },
+    {
+      "id": "koncon_jazz",
+      "title": "KonCon Jazz Students",
+      "bio": "BassFest spotlights the jazz department of the Koninklijk Conservatorium Den Haag:\nBassist Aaron van Dongen leads the JAS Trio. Since meeting in 2018, they’ve built a close musical bond, performed at North Sea Jazz and toured in Beijing. Bassist Tianyi Zhang graduated with honors from the Beijing Contemporary Music Academy before coming to The Hague, where he won the Pelizzaro Scholarship First Prize. He has performed in various ensembles, including his own Tian Trio, in which he now combines his Asian background with the European jazz tradition.",
+      "lineup": "Aaron van Dongen (Double Bass); rest of lineup tba; Tianyi Zhang (Double Bass); rest of lineup tba",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/11/KonCon-Jazz-Students-Composite-scaled.jpg",
+      "thumbImageURL": null,
+      "videoURL": null,
+      "tags": [
+        "jazz",
+        "conservatory",
+        "double bass"
+      ]
+    },
+    {
+      "id": "codarts_classical_fac",
+      "title": "Codarts Classical Faculty",
+      "bio": "Codarts Faculty Luis Cabrera and Ximo Clemente lead a concert of duets and Double bass repertoire spanning from Boismortier to Bottesini, including works of Mozart and Fauré. Joined by Nedpho’s co-principal bass Mario Torres and Codart’s bass class pianist Reineke Broekhans.",
+      "lineup": "Luis Cabrera (Double Bass); Ximo Clemente (Double Bass); Mario Torres (Double Bass); Reineke Broekhans (Piano)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/10/545ba7e9-35bb-4104-82a6-d6ed4ed99b78.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/Vv_5T0qFojc",
+      "tags": [
+        "classical",
+        "conservatory",
+        "double bass",
+        "faculty"
+      ]
+    },
+    {
+      "id": "koncon_earlymusic",
+      "title": "KonCon Early Music",
+      "bio": "Royal Conservatoire of The Hague – class of Margaret Urquhart The Early Music department of the Royal Conservatoire in The Hague is a real breeding ground for historically-informed bass playing – and at BassFest you get to hear a new generation up close! Guided by legend Margaret Urquhart, these young musicians dive into historic sound worlds, gut strings, continuo, dance rhythms and the role of the bass before it became the modern instrument we know today. Their playing combines style awareness with curiosity and personal flair, lively, colourful, and full of detail!",
+      "lineup": "Alexandre Teyssonnière de Gramont (double bass / violone); Keenan Zach (double bass/violone); Noémie Malo (violone); Ekaterina Uverova (theorbo)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/11/Early-Music-Student-Composite-scaled.jpg",
+      "thumbImageURL": null,
+      "videoURL": null,
+      "tags": [
+        "early music",
+        "baroque",
+        "conservatory",
+        "chamber music",
+        "violone",
+        "double bass"
+      ]
+    },
+    {
+      "id": "yope",
+      "title": "Y.O.P.E.",
+      "bio": "Y.O.P.E. is the musical experiment of bassist Joop de Graaf, also known for his work with Brintex Collective, Imaginarium, Sam Nera, and the Diana Dzhabbar Quartet. On the debut album ‘peer pleasure’ (2025), the band explores an electronic world of sound, with a core built on the fusion of groove, improvisation, and beat music. The album is a tribute to friendship — one of the most important things in life, according to Joop.",
+      "lineup": "Joop de Graaf (bass guitar); Anton de Bruin (keys); Luis Possollo (drums); Miguel Valente (alto sax); Sam Peetermans (vocals)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/09/YOPEsmall-1500x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/d4UeNnX1c4Q",
+      "tags": [
+        "jazz",
+        "broken beat",
+        "fusion",
+        "electronica",
+        "bass guitar"
+      ]
+    }
+  ],
+  "halls": [
+    {
+      "id": "hall_grote",
+      "name": "Grote Zaal",
+      "displayOrder": 1
+    },
+    {
+      "id": "hall_klein",
+      "name": "Sena Stage",
+      "displayOrder": 2
+    },
+    {
+      "id": "hall_1a",
+      "name": "1A First Alternative Stage",
+      "displayOrder": 3
+    },
+    {
+      "id": "Hall_Studio",
+      "name": "Studio Balkon",
+      "displayOrder": 4
+    },
+    {
+      "id": "hall_doro",
+      "name": "Studio Doro",
+      "displayOrder": 5
+    },
+    {
+      "id": "hall_foyers",
+      "name": "Foyers",
+      "displayOrder": 6
+    }
+  ],
+  "shows": [
+    {
+      "id": "perf_mohini_sat",
+      "actId": "mohini_dey",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T22:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00",
+      "tags": [
+        "fusion"
+      ]
+    },
+    {
+      "id": "perf_dave_sun",
+      "actId": "dave_holland",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T16:00:00+01:00",
+      "endTime": "2025-11-09T17:30:00+01:00",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "perf_victor_sun",
+      "actId": "victor_wooten",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T19:00:00+01:00",
+      "endTime": "2025-11-09T20:30:00+01:00"
+    },
+    {
+      "id": "talkingbass_victor_sun",
+      "actId": "victor_wooten",
+      "hallId": "hall_doro",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T15:30:00+01:00",
+      "endTime": "2025-11-09T16:30:00+01:00",
+      "titleOverride": "Talking Bass: Victor Wooten"
+    },
+    {
+      "id": "tb_xavier",
+      "actId": "xavier_foley",
+      "hallId": "hall_doro",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T20:30:00+01:00",
+      "endTime": "2025-11-09T21:30:00+01:00",
+      "titleOverride": "Talking Bass: Xavier Foley"
+    },
+    {
+      "id": "concert_xavier",
+      "actId": "xavier_foley",
+      "hallId": "hall_klein",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T17:30:00+01:00",
+      "endTime": "2025-11-09T19:00:00+01:00"
+    },
+    {
+      "id": "concert_manou_gallo",
+      "actId": "manou_gallo",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T16:30:00+01:00",
+      "endTime": "2025-11-08T18:00:00+01:00"
+    },
+    {
+      "id": "concert_mehdi_nassouli",
+      "actId": "mehdi_nassouli",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T19:00:00+01:00",
+      "endTime": "2025-11-08T20:30:00+01:00"
+    },
+    {
+      "id": "concert_joelle_leandre",
+      "actId": "joelle_leandre",
+      "hallId": "hall_klein",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T15:30:00+01:00",
+      "endTime": "2025-11-08T16:30:00+01:00"
+    },
+    {
+      "id": "concert_sasha_witteveen",
+      "actId": "sasha_witteveen",
+      "hallId": "hall_klein",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T18:00:00+01:00",
+      "endTime": "2025-11-08T19:00:00+01:00"
+    },
+    {
+      "id": "concert_james_oesi",
+      "actId": "james_oesi",
+      "hallId": "hall_klein",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T20:30:00+01:00",
+      "endTime": "2025-11-08T22:00:00+01:00"
+    },
+    {
+      "id": "concert_cva_classical",
+      "actId": "cva_classical",
+      "hallId": "hall_1a",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T14:00:00+01:00",
+      "endTime": "2025-11-08T15:00:00+01:00"
+    },
+    {
+      "id": "concert_koncon_jazz",
+      "actId": "koncon_jazz",
+      "hallId": "hall_1a",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T16:00:00+01:00",
+      "endTime": "2025-11-08T17:00:00+01:00"
+    },
+    {
+      "id": "concert_codarts_classical_fac",
+      "actId": "codarts_classical_fac",
+      "hallId": "hall_1a",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T18:00:00+01:00",
+      "endTime": "2025-11-08T19:00:00+01:00"
+    },
+    {
+      "id": "concert_koncon_earlymusic",
+      "actId": "koncon_earlymusic",
+      "hallId": "hall_1a",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T20:30:00+01:00",
+      "endTime": "2025-11-08T21:30:00+01:00"
+    },
+    {
+      "id": "concert_yope",
+      "actId": "yope",
+      "hallId": "hall_1a",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T23:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00"
+    }
+  ],
+  "artists": [
+    {
+      "id": "mohini_dey",
+      "name": "Mohini Dey",
+      "slug": "mohini-dey",
+      "bio150": "Bassist Mohini Dey and her band are coming to BassFest! The virtuoso Dey has been making waves both on- and offline from a young age with her extraordinary technique and musicality. She was quickly recognized by top musicians around the world. Dey has collaborated with legends like Steve Vai and Zakir Hussain and is praised for her fluid, genre-blending style. In 2023, she released her long-awaited debut album, fusing jazz fusion, Indian influences, and funk. On stage, she’s known for her infectious energy and powerful connection with the audience.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=yCCbvm2Njhg",
+      "tags": []
+    },
+    {
+      "id": "dave_holland",
+      "name": "Dave Holland Trio with Jaleel Shaw and Nasheet Waits",
+      "slug": "dave-holland-trio-with-jaleel-shaw-and-nasheet-waits",
+      "bio150": "For the second time, we welcome living legend Dave Holland to BassFest. Last time, he took the stage with John Scofield—this year, he returns with his remarkable trio. Alongside him: saxophonist Jaleel Shaw and drummer Nasheet Waits, a dream team of groove and improvisation. Holland is one of the most influential bassists of his generation, known for his work with Miles Davis, Herbie Hancock, and countless solo projects. His playing is layered, rhythmically powerful, and melodically rich. Together, the trio delivers an explosive mix of virtuosity, freedom, and emotion.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=voSYu31u3Uo&t=698s",
+      "tags": []
+    },
+    {
+      "id": "victor_wooten",
+      "name": "Victor Wooten & The Wooten Brothers",
+      "slug": "victor-wooten-the-wooten-brothers",
+      "bio150": "BassFest proudly presents the legendary American bassist Victor Wooten. A five-time Grammy Award winner, Wooten was the first person to be named Bassist of the Year three times by Bass Player magazine and was ranked by Rolling Stone in 2011 as one of the ten greatest bassists of all time. Known for his astonishing technique and innovative approach to the bass guitar, he rose to fame as a founding member of the groundbreaking ensemble Béla Fleck and the Flecktones. Wooten has collaborated with icons such as Chick Corea, Bootsy Collins, Stanley Clarke, Marcus Miller, and Whitney Houston. At BassFest, he will perform with his family band The Wooten Brothers – a show packed with virtuosity, funk, and musical magic.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "videoURL": "https://youtu.be/-VTTReStlsQ",
+      "tags": []
+    },
+    {
+      "id": "xavier_foley",
+      "name": "Xavier Foley",
+      "slug": "xavier-foley",
+      "bio150": "Making his Netherlands debut at BassFest is American double bassist Xavier Foley, renowned for his virtuosic technique and for redefining the role of the double bass as a solo instrument – both as a performer and composer. He has received numerous prestigious awards, including First Prize at the Sphinx Competition (2014), the Young Concert Artists International Auditions (2016), and the Avery Fisher Career Grant (2018). Foley performs internationally as a soloist with leading orchestras and is celebrated for his original compositions that blend classical music with elements of jazz, folk, and spirituals. His charismatic stage presence and energetic performances have made him an audience favorite wherever he plays. Foley studied with legendary bassist Edgar Meyer.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/797dd00b_Xavier-matt-dine-hires1-copy-1024x799.jpeg",
+      "thumbImageURL": null,
+      "videoURL": "Xavier Foley - Amazing Grace - YouTube",
+      "tags": [
+        "double bass",
+        "classical",
+        "solo"
+      ]
+    },
+    {
+      "id": "manou_gallo",
+      "name": "Manou Gallo Orchestra",
+      "slug": "manou-gallo-orchestra",
+      "bio150": "Manou Gallo is a powerhouse of rhythm and groove. With her Manou Gallo Orchestra, the Ivorian bassist, singer, and composer brings explosive energy to the stage, blending funk, soul, and African traditions into an irresistible sound. A former member of Zap Mama and collaborator with Marcus Miller, Manu Dibango and Bootsy Collins, she has carved out a unique place in the international bass scene. Expect fiery bass lines, powerful vocals, and a band that radiates joy and intensity – a true celebration of music without borders.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/09/3smaller-1500x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/KcPWofD-jP8",
+      "tags": [
+        "global",
+        "bass guitar",
+        "soul",
+        "funk"
+      ]
+    },
+    {
+      "id": "mehdi_nassouli",
+      "name": "Mehdi Nassouli & Marmoucha Orchestra",
+      "slug": "mehdi-nassouli-marmoucha-orchestra",
+      "bio150": "Moroccan musician Mehdi Nassouli is one of the leading voices in contemporary Gnawa music. A master of the guembri – the three-stringed bass lute at the heart of the Gnawa tradition – he blends African, Arab and Gnawa roots with elements of jazz, reggae and rock. Having collaborated with artists such as Fatoumata Diawara, Herbie Hancock and Alpha Blondy, Nassouli now joins forces with Amsterdam-based crossover ensemble Marmoucha Orchestra for BassFest. This versatile collective brings together musicians from diverse cultural and musical backgrounds and is known for its vibrant fusion of North African traditions, contemporary sounds and improvisation. Their collaboration promises a boundary-crossing concert full of rhythm, soul and deep musical dialogue.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/Coverfoto-Marmoucha-Jazzahead-1024x1024@2x.jpg",
+      "thumbImageURL": null,
+      "videoURL": "Sonic Bridges - Marmoucha Orchestra feat. Mehdi Nassouli | Jazzahead! 2024 | Part 1 - YouTube",
+      "tags": [
+        "gnawa",
+        "global",
+        "guembri"
+      ]
+    },
+    {
+      "id": "joelle_leandre",
+      "name": "Joëlle Léandre",
+      "slug": "joelle-leandre",
+      "bio150": "French double bass legend Joëlle Léandre is one of the most influential figures in contemporary and improvised music. A fearless performer and composer, she has worked with pioneers such as John Cage, Pierre Boulez, Merce Cunningham and Anthony Braxton, and her career spans hundreds of recordings and collaborations across genres. Léandre’s playing is unmistakable — raw, poetic, and full of risk — combining uncompromising virtuosity with theatricality and a deep sense of freedom. Beyond her instrument, she is a powerful voice for equality and individuality in music, inspiring generations of musicians worldwide.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/09/JoelleLEANDRE_COULEUR-recadre-655x630.webp",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/rRU6wR1SbXg",
+      "tags": [
+        "avant-garde",
+        "contemporary",
+        "solo",
+        "double bass"
+      ]
+    },
+    {
+      "id": "sasha_witteveen",
+      "name": "Sasha Witteveen",
+      "slug": "sasha-witteveen",
+      "bio150": "At the very first edition of BassFest, Sasha Witteveen took a masterclass with bass legend Gary Karr. Now, she is one of the most promising young double bassists in the Netherlands, and we’re proud to welcome her back to our stage for the second time. She combines classical virtuosity with a curious and forward-thinking approach to her instrument. From a young age, Sasha won numerous awards, including the Princess Christina Competition, the international Viennese Bass Days competition, and was named a Dutch Classical Talent. She regularly performs as a soloist and chamber musician, and has appeared with ensembles such as the Netherlands Chamber Orchestra and the Grachtenfestival. Her repertoire spans from Baroque to contemporary, with a passion for lesser-known works and unexpected musical combinations. Last year, she released her well-received debut album Into the Light.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/eduardus_lee_20240927_Sasha_Witteveen_026-824x1030-1-824x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/zbc4Uh40XOg",
+      "tags": [
+        "classical",
+        "double bass",
+        "chamber music"
+      ]
+    },
+    {
+      "id": "james_oesi",
+      "name": "James Oesi Trio",
+      "slug": "james-oesi-trio",
+      "bio150": "The James Oesi Trio brings together three exceptional musicians – double bassist James Oesi, theorbo player Mike Fentross, and electric bassist Mark Haanstra – in a boundary-pushing ensemble that completely redefines the role of the bass. Their programme moves effortlessly from the 18th century to South African jazz, featuring works by Bach, Handel and Vivaldi alongside music by Abdullah Ibrahim (with whom Oesi has collaborated), all in original arrangements by Oesi. With the double bass as a solo voice, the harmonic depth of the theorbo, and the rhythmic foundation of the electric bass, the trio creates a unique sound world that is both intimate and adventurous.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/MikeMarkJames-scaled-1-1500x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "James Oesi Trio – Bach Largo \"Arioso\" (Concerto No.5 BWV 1056) – Trio with Theorbo & Bass Guitar - YouTube",
+      "tags": [
+        "classical",
+        "double bass",
+        "chamber music"
+      ]
+    },
+    {
+      "id": "cva_classical",
+      "name": "CvA Classical Students",
+      "slug": "cva-classical-students",
+      "bio150": null,
+      "mainImageURL": null,
+      "thumbImageURL": null,
+      "videoURL": null,
+      "tags": [
+        "classical",
+        "conservatory",
+        "double bass"
+      ]
+    },
+    {
+      "id": "koncon_jazz",
+      "name": "KonCon Jazz Students",
+      "slug": "koncon-jazz-students",
+      "bio150": "BassFest spotlights the jazz department of the Koninklijk Conservatorium Den Haag:\nBassist Aaron van Dongen leads the JAS Trio. Since meeting in 2018, they’ve built a close musical bond, performed at North Sea Jazz and toured in Beijing. Bassist Tianyi Zhang graduated with honors from the Beijing Contemporary Music Academy before coming to The Hague, where he won the Pelizzaro Scholarship First Prize. He has performed in various ensembles, including his own Tian Trio, in which he now combines his Asian background with the European jazz tradition.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/11/KonCon-Jazz-Students-Composite-scaled.jpg",
+      "thumbImageURL": null,
+      "videoURL": null,
+      "tags": [
+        "jazz",
+        "conservatory",
+        "double bass"
+      ]
+    },
+    {
+      "id": "codarts_classical_fac",
+      "name": "Codarts Classical Faculty",
+      "slug": "codarts-classical-faculty",
+      "bio150": "Codarts Faculty Luis Cabrera and Ximo Clemente lead a concert of duets and Double bass repertoire spanning from Boismortier to Bottesini, including works of Mozart and Fauré. Joined by Nedpho’s co-principal bass Mario Torres and Codart’s bass class pianist Reineke Broekhans.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/10/545ba7e9-35bb-4104-82a6-d6ed4ed99b78.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/Vv_5T0qFojc",
+      "tags": [
+        "classical",
+        "conservatory",
+        "double bass",
+        "faculty"
+      ]
+    },
+    {
+      "id": "koncon_earlymusic",
+      "name": "KonCon Early Music",
+      "slug": "koncon-early-music",
+      "bio150": "Royal Conservatoire of The Hague – class of Margaret Urquhart The Early Music department of the Royal Conservatoire in The Hague is a real breeding ground for historically-informed bass playing – and at BassFest you get to hear a new generation up close! Guided by legend Margaret Urquhart, these young musicians dive into historic sound worlds, gut strings, continuo, dance rhythms and the role of the bass before it became the modern instrument we know today. Their playing combines style awareness with curiosity and personal flair, lively, colourful, and full of detail!",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/11/Early-Music-Student-Composite-scaled.jpg",
+      "thumbImageURL": null,
+      "videoURL": null,
+      "tags": [
+        "early music",
+        "baroque",
+        "conservatory",
+        "chamber music",
+        "violone",
+        "double bass"
+      ]
+    },
+    {
+      "id": "yope",
+      "name": "Y.O.P.E.",
+      "slug": "y-o-p-e",
+      "bio150": "Y.O.P.E. is the musical experiment of bassist Joop de Graaf, also known for his work with Brintex Collective, Imaginarium, Sam Nera, and the Diana Dzhabbar Quartet. On the debut album ‘peer pleasure’ (2025), the band explores an electronic world of sound, with a core built on the fusion of groove, improvisation, and beat music. The album is a tribute to friendship — one of the most important things in life, according to Joop.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/09/YOPEsmall-1500x630.jpg",
+      "thumbImageURL": null,
+      "videoURL": "https://youtu.be/d4UeNnX1c4Q",
+      "tags": [
+        "jazz",
+        "broken beat",
+        "fusion",
+        "electronica",
+        "bass guitar"
+      ]
+    }
+  ],
+  "performances": [
+    {
+      "id": "perf_mohini_sat",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "mohini_dey"
+      ],
+      "startTime": "2025-11-08T22:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": [
+        "fusion"
+      ]
+    },
+    {
+      "id": "perf_dave_sun",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "dave_holland"
+      ],
+      "startTime": "2025-11-09T16:00:00+01:00",
+      "endTime": "2025-11-09T17:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "perf_victor_sun",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "victor_wooten"
+      ],
+      "startTime": "2025-11-09T19:00:00+01:00",
+      "endTime": "2025-11-09T20:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "talkingbass_victor_sun",
+      "hallId": "hall_doro",
+      "artistIds": [
+        "victor_wooten"
+      ],
+      "startTime": "2025-11-09T15:30:00+01:00",
+      "endTime": "2025-11-09T16:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "tb_xavier",
+      "hallId": "hall_doro",
+      "artistIds": [
+        "xavier_foley"
+      ],
+      "startTime": "2025-11-09T20:30:00+01:00",
+      "endTime": "2025-11-09T21:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "concert_xavier",
+      "hallId": "hall_klein",
+      "artistIds": [
+        "xavier_foley"
+      ],
+      "startTime": "2025-11-09T17:30:00+01:00",
+      "endTime": "2025-11-09T19:00:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "concert_manou_gallo",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "manou_gallo"
+      ],
+      "startTime": "2025-11-08T16:30:00+01:00",
+      "endTime": "2025-11-08T18:00:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_mehdi_nassouli",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "mehdi_nassouli"
+      ],
+      "startTime": "2025-11-08T19:00:00+01:00",
+      "endTime": "2025-11-08T20:30:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_joelle_leandre",
+      "hallId": "hall_klein",
+      "artistIds": [
+        "joelle_leandre"
+      ],
+      "startTime": "2025-11-08T15:30:00+01:00",
+      "endTime": "2025-11-08T16:30:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_sasha_witteveen",
+      "hallId": "hall_klein",
+      "artistIds": [
+        "sasha_witteveen"
+      ],
+      "startTime": "2025-11-08T18:00:00+01:00",
+      "endTime": "2025-11-08T19:00:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_james_oesi",
+      "hallId": "hall_klein",
+      "artistIds": [
+        "james_oesi"
+      ],
+      "startTime": "2025-11-08T20:30:00+01:00",
+      "endTime": "2025-11-08T22:00:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_cva_classical",
+      "hallId": "hall_1a",
+      "artistIds": [
+        "cva_classical"
+      ],
+      "startTime": "2025-11-08T14:00:00+01:00",
+      "endTime": "2025-11-08T15:00:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_koncon_jazz",
+      "hallId": "hall_1a",
+      "artistIds": [
+        "koncon_jazz"
+      ],
+      "startTime": "2025-11-08T16:00:00+01:00",
+      "endTime": "2025-11-08T17:00:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_codarts_classical_fac",
+      "hallId": "hall_1a",
+      "artistIds": [
+        "codarts_classical_fac"
+      ],
+      "startTime": "2025-11-08T18:00:00+01:00",
+      "endTime": "2025-11-08T19:00:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_koncon_earlymusic",
+      "hallId": "hall_1a",
+      "artistIds": [
+        "koncon_earlymusic"
+      ],
+      "startTime": "2025-11-08T20:30:00+01:00",
+      "endTime": "2025-11-08T21:30:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    },
+    {
+      "id": "concert_yope",
+      "hallId": "hall_1a",
+      "artistIds": [
+        "yope"
+      ],
+      "startTime": "2025-11-08T23:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": []
+    }
+  ]
+}
