@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "revision": 13,
+    "generatedAt": "2025-11-03T18:55:11+01:00"
+  },
+  "acts": [
+    {
+      "id": "mohini_dey",
+      "title": "SOEP TEST Mohini Dey",
+      "bio": "Bassist Mohini Dey and her band are coming to BassFest! The virtuoso Dey has been making waves both on- and offline from a young age with her extraordinary technique and musicality. She was quickly recognized by top musicians around the world. Dey has collaborated with legends like Steve Vai and Zakir Hussain and is praised for her fluid, genre-blending style. In 2023, she released her long-awaited debut album, fusing jazz fusion, Indian influences, and funk. On stage, she’s known for her infectious energy and powerful connection with the audience.",
+      "lineup": "Mohini Dey (bass guitar); rest of lineup TBA",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=yCCbvm2Njhg",
+      "tags": []
+    },
+    {
+      "id": "dave_holland",
+      "title": "Dave Holland Trio with Jaleel Shaw and Nasheet Waits",
+      "bio": "For the second time, we welcome living legend Dave Holland to BassFest. Last time, he took the stage with John Scofield—this year, he returns with his remarkable trio. Alongside him: saxophonist Jaleel Shaw and drummer Nasheet Waits, a dream team of groove and improvisation. Holland is one of the most influential bassists of his generation, known for his work with Miles Davis, Herbie Hancock, and countless solo projects. His playing is layered, rhythmically powerful, and melodically rich. Together, the trio delivers an explosive mix of virtuosity, freedom, and emotion.",
+      "lineup": "Dave Holland (double bass); Jaleel Shaw (saxophone); Nasheet Waits (drums)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=voSYu31u3Uo&t=698s",
+      "tags": []
+    },
+    {
+      "id": "victor_wooten",
+      "title": "Victor Wooten & The Wooten Brothers",
+      "bio": "BassFest proudly presents the legendary American bassist Victor Wooten. A five-time Grammy Award winner, Wooten was the first person to be named Bassist of the Year three times by Bass Player magazine and was ranked by Rolling Stone in 2011 as one of the ten greatest bassists of all time. Known for his astonishing technique and innovative approach to the bass guitar, he rose to fame as a founding member of the groundbreaking ensemble Béla Fleck and the Flecktones. Wooten has collaborated with icons such as Chick Corea, Bootsy Collins, Stanley Clarke, Marcus Miller, and Whitney Houston. At BassFest, he will perform with his family band The Wooten Brothers – a show packed with virtuosity, funk, and musical magic.",
+      "lineup": "Regi Wooten (electric guitar); Roy Wooten (drums) Joseph wooten (vocals & keys); Victor Wooten (bass guitar)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "videoURL": "https://youtu.be/-VTTReStlsQ",
+      "tags": []
+    },
+    {
+      "id": "xavier_foley",
+      "title": "Xavier Foley",
+      "bio": "Making his Netherlands debut at BassFest is American double bassist Xavier Foley, renowned for his virtuosic technique and for redefining the role of the double bass as a solo instrument – both as a performer and composer. He has received numerous prestigious awards, including First Prize at the Sphinx Competition (2014), the Young Concert Artists International Auditions (2016), and the Avery Fisher Career Grant (2018). Foley performs internationally as a soloist with leading orchestras and is celebrated for his original compositions that blend classical music with elements of jazz, folk, and spirituals. His charismatic stage presence and energetic performances have made him an audience favorite wherever he plays. Foley studied with legendary bassist Edgar Meyer.",
+      "lineup": "Xavier Foley (Double Bass)",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/797dd00b_Xavier-matt-dine-hires1-copy-1024x799.jpeg",
+      "thumbImageURL": null,
+      "videoURL": "Xavier Foley - Amazing Grace - YouTube",
+      "tags": [
+        "double bass",
+        "classical",
+        "solo"
+      ]
+    }
+  ],
+  "halls": [
+    {
+      "id": "hall_grote",
+      "name": "Grote Zaal",
+      "displayOrder": 1
+    },
+    {
+      "id": "hall_klein",
+      "name": "Sena Stage",
+      "displayOrder": 2
+    },
+    {
+      "id": "hall_1a",
+      "name": "1A First Alternative Stage",
+      "displayOrder": 3
+    },
+    {
+      "id": "Hall_Studio",
+      "name": "Studio Balkon",
+      "displayOrder": 4
+    },
+    {
+      "id": "hall_doro",
+      "name": "Studio Doro",
+      "displayOrder": 5
+    },
+    {
+      "id": "hall_foyers",
+      "name": "Foyers",
+      "displayOrder": 6
+    }
+  ],
+  "shows": [
+    {
+      "id": "perf_mohini_sat",
+      "actId": "mohini_dey",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-08",
+      "startTime": "2025-11-08T22:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00",
+      "tags": [
+        "fusion"
+      ]
+    },
+    {
+      "id": "perf_dave_sun",
+      "actId": "dave_holland",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T16:00:00+01:00",
+      "endTime": "2025-11-09T17:30:00+01:00",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "perf_victor_sun",
+      "actId": "victor_wooten",
+      "hallId": "hall_grote",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T19:00:00+01:00",
+      "endTime": "2025-11-09T20:30:00+01:00"
+    },
+    {
+      "id": "talkingbass_victor_sun",
+      "actId": "victor_wooten",
+      "hallId": "hall_doro",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T15:30:00+01:00",
+      "endTime": "2025-11-09T16:30:00+01:00",
+      "titleOverride": "Talking Bass: Victor Wooten"
+    },
+    {
+      "id": "tb_xavier",
+      "actId": "xavier_foley",
+      "hallId": "hall_doro",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T20:30:00+01:00",
+      "endTime": "2025-11-09T21:30:00+01:00",
+      "titleOverride": "Talking Bass: Xavier Foley"
+    },
+    {
+      "id": "concert_xavier",
+      "actId": "xavier_foley",
+      "hallId": "hall_klein",
+      "dayDate": "2025-11-09",
+      "startTime": "2025-11-09T17:30:00+01:00",
+      "endTime": "2025-11-09T19:00:00+01:00"
+    }
+  ],
+  "artists": [
+    {
+      "id": "mohini_dey",
+      "name": "SOEP TEST Mohini Dey",
+      "slug": "soep-test-mohini-dey",
+      "bio150": "Bassist Mohini Dey and her band are coming to BassFest! The virtuoso Dey has been making waves both on- and offline from a young age with her extraordinary technique and musicality. She was quickly recognized by top musicians around the world. Dey has collaborated with legends like Steve Vai and Zakir Hussain and is praised for her fluid, genre-blending style. In 2023, she released her long-awaited debut album, fusing jazz fusion, Indian influences, and funk. On stage, she’s known for her infectious energy and powerful connection with the audience.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/dsc4574-wide-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=yCCbvm2Njhg",
+      "tags": []
+    },
+    {
+      "id": "dave_holland",
+      "name": "Dave Holland Trio with Jaleel Shaw and Nasheet Waits",
+      "slug": "dave-holland-trio-with-jaleel-shaw-and-nasheet-waits",
+      "bio150": "For the second time, we welcome living legend Dave Holland to BassFest. Last time, he took the stage with John Scofield—this year, he returns with his remarkable trio. Alongside him: saxophonist Jaleel Shaw and drummer Nasheet Waits, a dream team of groove and improvisation. Holland is one of the most influential bassists of his generation, known for his work with Miles Davis, Herbie Hancock, and countless solo projects. His playing is layered, rhythmically powerful, and melodically rich. Together, the trio delivers an explosive mix of virtuosity, freedom, and emotion.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/PA290340_bw-scaled.jpg",
+      "videoURL": "https://www.youtube.com/watch?v=voSYu31u3Uo&t=698s",
+      "tags": []
+    },
+    {
+      "id": "victor_wooten",
+      "name": "Victor Wooten & The Wooten Brothers",
+      "slug": "victor-wooten-the-wooten-brothers",
+      "bio150": "BassFest proudly presents the legendary American bassist Victor Wooten. A five-time Grammy Award winner, Wooten was the first person to be named Bassist of the Year three times by Bass Player magazine and was ranked by Rolling Stone in 2011 as one of the ten greatest bassists of all time. Known for his astonishing technique and innovative approach to the bass guitar, he rose to fame as a founding member of the groundbreaking ensemble Béla Fleck and the Flecktones. Wooten has collaborated with icons such as Chick Corea, Bootsy Collins, Stanley Clarke, Marcus Miller, and Whitney Houston. At BassFest, he will perform with his family band The Wooten Brothers – a show packed with virtuosity, funk, and musical magic.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "thumbImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/WB-Bunk-Beds-Polaroid-2048x2048.jpeg",
+      "videoURL": "https://youtu.be/-VTTReStlsQ",
+      "tags": []
+    },
+    {
+      "id": "xavier_foley",
+      "name": "Xavier Foley",
+      "slug": "xavier-foley",
+      "bio150": "Making his Netherlands debut at BassFest is American double bassist Xavier Foley, renowned for his virtuosic technique and for redefining the role of the double bass as a solo instrument – both as a performer and composer. He has received numerous prestigious awards, including First Prize at the Sphinx Competition (2014), the Young Concert Artists International Auditions (2016), and the Avery Fisher Career Grant (2018). Foley performs internationally as a soloist with leading orchestras and is celebrated for his original compositions that blend classical music with elements of jazz, folk, and spirituals. His charismatic stage presence and energetic performances have made him an audience favorite wherever he plays. Foley studied with legendary bassist Edgar Meyer.",
+      "mainImageURL": "https://bassfest.nl/wp-content/uploads/2025/06/797dd00b_Xavier-matt-dine-hires1-copy-1024x799.jpeg",
+      "thumbImageURL": null,
+      "videoURL": "Xavier Foley - Amazing Grace - YouTube",
+      "tags": [
+        "double bass",
+        "classical",
+        "solo"
+      ]
+    }
+  ],
+  "performances": [
+    {
+      "id": "perf_mohini_sat",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "mohini_dey"
+      ],
+      "startTime": "2025-11-08T22:00:00+01:00",
+      "endTime": "2025-11-08T23:30:00+01:00",
+      "dayDate": "2025-11-08",
+      "tags": [
+        "fusion"
+      ]
+    },
+    {
+      "id": "perf_dave_sun",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "dave_holland"
+      ],
+      "startTime": "2025-11-09T16:00:00+01:00",
+      "endTime": "2025-11-09T17:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "perf_victor_sun",
+      "hallId": "hall_grote",
+      "artistIds": [
+        "victor_wooten"
+      ],
+      "startTime": "2025-11-09T19:00:00+01:00",
+      "endTime": "2025-11-09T20:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "talkingbass_victor_sun",
+      "hallId": "hall_doro",
+      "artistIds": [
+        "victor_wooten"
+      ],
+      "startTime": "2025-11-09T15:30:00+01:00",
+      "endTime": "2025-11-09T16:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "tb_xavier",
+      "hallId": "hall_doro",
+      "artistIds": [
+        "xavier_foley"
+      ],
+      "startTime": "2025-11-09T20:30:00+01:00",
+      "endTime": "2025-11-09T21:30:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    },
+    {
+      "id": "concert_xavier",
+      "hallId": "hall_klein",
+      "artistIds": [
+        "xavier_foley"
+      ],
+      "startTime": "2025-11-09T17:30:00+01:00",
+      "endTime": "2025-11-09T19:00:00+01:00",
+      "dayDate": "2025-11-09",
+      "tags": []
+    }
+  ]
+}
