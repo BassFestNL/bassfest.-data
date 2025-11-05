@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "revision": 25,
+    "generatedAt": "2025-11-05T20:13:25+01:00"
+  },
+  "acts": [],
+  "halls": [
+    {
+      "id": "hall_grote",
+      "name": "Grote Zaal",
+      "displayOrder": 0
+    },
+    {
+      "id": "hall_klein",
+      "name": "Sena Stage",
+      "displayOrder": 0
+    },
+    {
+      "id": "hall_1a",
+      "name": "1A First Alternative Stage",
+      "displayOrder": 0
+    },
+    {
+      "id": "hall_studio",
+      "name": "Studio Balkon",
+      "displayOrder": 0
+    },
+    {
+      "id": "hall_doro",
+      "name": "Studio Doro",
+      "displayOrder": 0
+    },
+    {
+      "id": "hall_foyers",
+      "name": "Foyers",
+      "displayOrder": 0
+    }
+  ],
+  "shows": [],
+  "partners": []
+}
